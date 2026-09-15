@@ -1,0 +1,68 @@
+{
+  "siteName": "Velnora Travel",
+  "brand": "Velnora Journeys",
+  "tagline": "Luxury Journeys, Curated For You",
+  "defaultDescription": "Discover unforgettable places and timeless memories. We design luxury escapes and dream vacations curated just for you.",
+  "phone": "+1 (555) 010-4820",
+  "phoneAlt": "",
+  "whatsapp": "+1 (555) 010-4820",
+  "email": "info@velnoratravels.com",
+  "addressLine1": "250 Demo Avenue, Suite 12",
+  "addressLine2": "Austin, TX 78701",
+  "hours": [
+    "Mon - Fri: 9:00 AM - 6:00 PM (CST)",
+    "Saturday: 10:00 AM - 2:00 PM (CST)"
+  ],
+  "videoUrl": "",
+  "socials": {
+    "facebook": "",
+    "instagram": "",
+    "youtube": "",
+    "pinterest": ""
+  },
+  "newsletter": {
+    "title": "Stay Inspired, Always",
+    "text": "Subscribe for exclusive travel ideas, special offers, and destination guides."
+  },
+  "footer": {
+    "about": "Curated journeys. Authentic experiences. Unforgettable memories. Let's explore the world together.",
+    "script": "Adventure\nawaits.",
+    "credit": "Crafted with passion for travelers around the world.",
+    "badges": [
+      {
+        "icon": "fa-solid fa-award",
+        "title": "Trusted Travel",
+        "text": "Curated service"
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "Responsive Support",
+        "text": "Help when you need it"
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "title": "Safe & Secure",
+        "text": "Your details stay private"
+      },
+      {
+        "icon": "fa-regular fa-heart",
+        "title": "Personalized Service",
+        "text": "Journeys tailored around you"
+      }
+    ]
+  },
+  "searchPopular": [
+    {
+      "label": "Greece",
+      "href": "/destination/santorini-greece"
+    },
+    {
+      "label": "Italy",
+      "href": "/destination/amalfi-coast-italy"
+    },
+    {
+      "label": "Japan",
+      "href": "/destination/kyoto-japan"
+    }
+  ]
+}

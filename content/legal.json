@@ -1,0 +1,334 @@
+[
+  {
+    "slug": "privacy-policy",
+    "title": "Privacy Policy",
+    "intro": "Your privacy is important to us. This policy explains how Velnora Travel collects, uses, and protects your personal information.",
+    "tocLabel": "IN THIS POLICY",
+    "helpText": "We're here to help with any questions about your privacy.",
+    "notice": "This Privacy Policy may be updated from time to time. We encourage you to review this page periodically.",
+    "seoDescription": "Privacy Policy for Velnora Travel.",
+    "lastUpdated": "2024-05-20",
+    "sections": [
+      {
+        "title": "Introduction",
+        "icon": "fa-solid fa-shield-halved",
+        "paragraphs": [
+          "Velnora Travel (\"we\", \"us\", or \"our\") is committed to protecting the privacy and security of your personal data. This Privacy Policy outlines our practices regarding the collection, use, processing, and disclosure of personal information when you access our website, use our mobile services, or engage with our luxury travel advisors.",
+          "We operate under strict compliance with global data protection standards, ensuring that your journey with us is safe, secure, and fully transparent from your very first inquiry."
+        ]
+      },
+      {
+        "title": "Information We Collect",
+        "icon": "fa-regular fa-user",
+        "paragraphs": [
+          "We collect personal information that you voluntarily provide to us when you make booking requests, subscribe to our newsletters, or communicate with our team. This data includes identifying information such as your full legal name, date of birth, passport details, billing address, email address, phone number, and payment card details. To customize your luxury itineraries, we may also collect specialized travel preferences, dietary restrictions, and medical or mobility requirements.",
+          "In addition to the information you provide directly, we automatically collect technical data when you browse our website. This includes your IP address, browser type and version, time zone setting, operating system, referral source, page interaction metrics, and navigation paths. This information is collected using cookies and server logs, helping us optimize website performance and prevent security threats."
+        ]
+      },
+      {
+        "title": "How We Use Your Information",
+        "icon": "fa-regular fa-file-lines",
+        "paragraphs": [
+          "Velnora Travel uses your personal information primarily to process booking requests, coordinate with hotels and transport providers, and deliver your customized travel packages. We use your contact details to send reservation updates, travel advisories, invoice statements, and essential trip documentation. We also process payment data through secure gateway channels to facilitate transactions and prevent fraud.",
+          "We also utilize aggregated, non-identifying data for business analysis, service optimization, and marketing improvements. If you have opted in, we may send you personalized newsletters, exclusive travel deals, and destination guides based on your preferences. You can opt out of marketing communications at any time by clicking the unsubscribe link or contacting our support team."
+        ]
+      },
+      {
+        "title": "Cookies",
+        "icon": "fa-solid fa-cookie-bite",
+        "paragraphs": [
+          "Cookies are small text files placed on your device to improve your browsing experience. We use essential cookies to maintain secure user sessions, manage booking widget states, and remember your language preferences. These cookies are required for the website to function correctly and cannot be disabled in our systems.",
+          "We also use performance and analytics cookies to analyze site traffic, measure page engagement, and improve website navigation. These cookies help us understand which articles in our Travel Guide are most popular and how users navigate our site. You can control cookie settings through your browser preferences, though disabling cookies may affect certain interactive features of our website."
+        ]
+      },
+      {
+        "title": "Third-Party Services",
+        "icon": "fa-regular fa-handshake",
+        "paragraphs": [
+          "To fulfill your travel bookings, we must share relevant parts of your personal data with third-party service providers, including airlines, luxury resorts, local tour operators, and transportation agencies. These suppliers act as independent data controllers and process your information in accordance with their own privacy policies. We select partners who maintain high standards of privacy and data security.",
+          "We also share data with third-party vendors who provide supporting services for our operations, such as secure payment gateways, email delivery networks, and website analytics. These partners are legally bound by confidentiality agreements, prohibiting them from using or sharing your data for any purpose other than delivering services on our behalf."
+        ]
+      },
+      {
+        "title": "Data Security",
+        "icon": "fa-regular fa-lock",
+        "paragraphs": [
+          "The security of your personal data is a top priority at Velnora Travel. We implement robust physical, technical, and administrative security measures to protect your information against unauthorized access, disclosure, alteration, or destruction. All online payment transactions are encrypted using Secure Socket Layer (SSL) technology and processed through PCI-DSS compliant channels.",
+          "While we employ industry-standard protocols to protect your data, no method of transmission over the internet or system of electronic storage is 100% secure. We maintain comprehensive incident response procedures to address any suspected data breaches and will notify you and relevant regulatory authorities immediately in the event of a significant security incident."
+        ]
+      },
+      {
+        "title": "Your Rights",
+        "icon": "fa-solid fa-user-shield",
+        "paragraphs": [
+          "Depending on your jurisdiction, you hold specific legal rights regarding the personal information we process. You have the right to request access to a copy of your personal data, request the correction of inaccurate or incomplete information, or request the deletion of your data where there is no legal basis for us to retain it. You also have the right to restrict or object to our processing of your personal data under certain conditions, such as for direct marketing.",
+          "To exercise any of these rights, please submit a written request to our data protection officer. We will review and respond to your request within the statutory timeframe required by applicable laws."
+        ]
+      },
+      {
+        "title": "Contact",
+        "icon": "fa-regular fa-envelope",
+        "paragraphs": [
+          "If you have any questions, concerns, or requests regarding this Privacy Policy, your personal information, or our data handling practices, please contact the Velnora Travel data privacy team. You can reach us via email at privacy@velnoratravels.com or by sending physical mail to our corporate office address.",
+          "We are dedicated to resolving any privacy concerns quickly and professionally. If you believe our processing of your personal information does not comply with data protection regulations, you also have the right to lodge a formal complaint with the relevant data protection authority in your jurisdiction."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "terms",
+    "title": "Terms & Conditions",
+    "intro": "Please read these terms and conditions carefully before using our website or booking your journeys with Velnora Travel.",
+    "tocLabel": "IN THIS AGREEMENT",
+    "helpText": "We're here to help with any questions about our terms.",
+    "notice": "These Terms & Conditions may be updated from time to time. We encourage you to review this page periodically.",
+    "seoDescription": "Terms and Conditions for Velnora Travel.",
+    "lastUpdated": "2024-05-20",
+    "sections": [
+      {
+        "title": "Website Use",
+        "icon": "fa-solid fa-desktop",
+        "paragraphs": [
+          "Welcome to Velnora Travel. By accessing or using our website, you agree to comply with and be bound by these Terms & Conditions. These terms govern your access to and use of our platform, including booking widgets, travel guide articles, and contact forms. If you do not agree with any part of these terms, you must discontinue your use of our website immediately.",
+          "You may only use our website for lawful purposes and in accordance with these terms. You agree not to use our platform to transmit any unauthorized advertising, engage in data mining, introduce malicious code, or attempt unauthorized access to our secure servers. Velnora Travel reserves the right to terminate or restrict your access to the website without notice for violating these rules."
+        ]
+      },
+      {
+        "title": "Travel Information",
+        "icon": "fa-solid fa-plane",
+        "paragraphs": [
+          "All travel information, itineraries, pricing estimates, and guides provided on our website are for general informational purposes. While we strive to ensure that all details are accurate, complete, and up-to-date, travel details are subject to rapid change. We do not warrant or guarantee that the content on our website is free from errors, omissions, or outdated listings.",
+          "Travelers are advised to verify all critical trip details, including entry requirements, flight schedules, and weather patterns, independently or directly with a Velnora Travel advisor. Velnora Travel is not liable for any losses, inconveniences, or disruptions resulting from reliance on the informational content published on our website."
+        ]
+      },
+      {
+        "title": "Booking Requests",
+        "icon": "fa-regular fa-calendar-check",
+        "paragraphs": [
+          "Submitting a booking request through our online portal or via email does not constitute a confirmed reservation. All booking requests represent inquiries that are subject to final pricing verification, supplier availability, and written confirmation by our luxury travel advisors. A contract is only established once we issue a formal confirmation invoice and receive your deposit.",
+          "We reserve the right to decline any booking request for any reason, including pricing errors, supplier changes, or suspicion of fraudulent activity. If we decline a booking request after a payment has been authorized, we will refund the full authorized amount back to your original payment card immediately."
+        ]
+      },
+      {
+        "title": "Pricing and Availability",
+        "icon": "fa-solid fa-tags",
+        "paragraphs": [
+          "All prices quoted on our website are subject to availability and can change without notice based on seasonal demand, supplier tariff adjustments, tax changes, and exchange rate fluctuations. While we make every effort to display accurate pricing, errors may occur. In the event of a pricing error on a pending booking, we will notify you and offer the option to confirm at the correct rate or cancel without penalty.",
+          "Travel package availability is not guaranteed until a booking is confirmed and the required deposit is paid in full. Some exclusive experiences, luxury suites, and charter packages have strictly limited availability and are allocated on a first-come, first-served basis. Velnora Travel is not liable for availability changes prior to reservation confirmation."
+        ]
+      },
+      {
+        "title": "Third-Party Providers",
+        "icon": "fa-regular fa-handshake",
+        "paragraphs": [
+          "Velnora Travel acts as an agent to coordinate bookings with independent third-party travel providers, including airlines, luxury resorts, local tour operators, and cruise lines. These suppliers operate independently and are not employees or direct agents of Velnora Travel. Your booking is subject to the specific terms, conditions, and liability limitations of these individual providers.",
+          "We are not responsible or liable for any acts, omissions, defaults, or negligence of these third-party providers. This includes flight delays, hotel overbookings, service changes, property damage, personal injury, or trip interruptions. Any disputes regarding supplier services must be resolved directly with the respective service provider."
+        ]
+      },
+      {
+        "title": "Limitation of Liability",
+        "icon": "fa-solid fa-scale-balanced",
+        "paragraphs": [
+          "To the maximum extent permitted by law, Velnora Travel, its directors, employees, and affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages resulting from your use of our website, booking services, or participation in any travel itineraries. This includes losses due to flight cancellations, weather anomalies, health crises, or political unrest.",
+          "In jurisdictions that do not allow the exclusion or limitation of certain liabilities, our total liability shall be limited to the maximum extent permitted by law, or to the total amount paid by you to Velnora Travel for the specific booking in question. We recommend purchasing travel insurance to protect against unforeseen travel risks."
+        ]
+      },
+      {
+        "title": "Changes to Terms",
+        "icon": "fa-solid fa-rotate",
+        "paragraphs": [
+          "Velnora Travel reserves the right to modify, amend, or update these Terms & Conditions at any time without prior notice. The updated terms will be published on this page with the revised \"Last Updated\" date. We encourage you to review these terms regularly to ensure you are aware of any modifications that may affect your rights.",
+          "Your continued use of our website or booking services following the publication of any changes constitutes your explicit acceptance of the updated terms. If you do not agree to the modified terms, you must discontinue using our services and website immediately."
+        ]
+      },
+      {
+        "title": "Contact",
+        "icon": "fa-regular fa-envelope",
+        "paragraphs": [
+          "If you have any questions, concerns, or require clarification regarding these Terms & Conditions, please contact the Velnora Travel legal compliance team. You can reach us via email at terms@velnoratravels.com or by calling our customer support hotline during business hours.",
+          "Our team is dedicated to providing clear, transparent answers to all your inquiries. We aim to respond to all written terms and conditions inquiries within three business days, helping you proceed with your booking preparations with absolute confidence."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cookie-policy",
+    "title": "Cookie Policy",
+    "intro": "This cookie policy explains how we use cookies and similar technologies to improve your experience on our website.",
+    "tocLabel": "IN THIS POLICY",
+    "helpText": "We're here to help with any questions about cookies.",
+    "notice": "This Cookie Policy may be updated from time to time. We encourage you to review this page periodically.",
+    "seoDescription": "Cookie Policy for Velnora Travel.",
+    "lastUpdated": "2024-05-20",
+    "sections": [
+      {
+        "title": "What Cookies Are",
+        "icon": "fa-solid fa-cookie",
+        "paragraphs": [
+          "Cookies are small text files stored on your computer or mobile device when you visit a website. They are widely used to make websites work, or work more efficiently, as well as to provide information to the owners of the site.",
+          "These files allow us to recognize your device and save preferences so you do not have to re-enter them upon return."
+        ]
+      },
+      {
+        "title": "How We Use Cookies",
+        "icon": "fa-solid fa-cookie-bite",
+        "paragraphs": [
+          "We use cookies for essential website functions, such as remembering your language preference, retaining booking request states as you browse, and keeping secure areas active. These cookies cannot be disabled.",
+          "We also use functional cookies to customize your interface and provide convenient services like chat modules."
+        ]
+      },
+      {
+        "title": "Analytics Cookies",
+        "icon": "fa-solid fa-chart-line",
+        "paragraphs": [
+          "We use analytics cookies to collect anonymous information about how visitors interact with our website, such as page views and traffic sources. This helps us measure and improve performance.",
+          "We use these metrics to assess the popularity of articles in our Travel Guide, helping us curate higher quality content for our readers."
+        ]
+      },
+      {
+        "title": "Managing Cookies",
+        "icon": "fa-solid fa-gear",
+        "paragraphs": [
+          "You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.",
+          "This may prevent you from taking full advantage of the website. Disabling essential cookies can interfere with booking queries and payment processes."
+        ]
+      },
+      {
+        "title": "Contact",
+        "icon": "fa-regular fa-envelope",
+        "paragraphs": [
+          "If you have any questions or require additional information regarding our use of cookies, please reach out to our digital team using the contact details below. You can contact us via email at cookies@velnoratravels.com or by sending physical mail to our headquarters.",
+          "We aim to respond to all inquiries within three business days."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "booking-terms",
+    "title": "Booking Terms",
+    "intro": "These booking terms outline the agreement, payments, and terms between you and Velnora Travel for all reservation requests.",
+    "tocLabel": "IN THIS AGREEMENT",
+    "helpText": "We're here to help with any questions about bookings.",
+    "notice": "These Booking Terms may be updated from time to time. We encourage you to review this page periodically.",
+    "seoDescription": "Booking Terms for Velnora Travel.",
+    "lastUpdated": "2024-05-20",
+    "sections": [
+      {
+        "title": "Booking Requests",
+        "icon": "fa-regular fa-calendar-check",
+        "paragraphs": [
+          "All holiday packages, custom tours, and hotel bookings submitted on our platform represent booking requests. These requests are subject to final confirmation and pricing verification by our luxury travel advisors. No booking is secured until a formal confirmation invoice is issued and the designated deposit has been cleared in full.",
+          "Velnora Travel acts in cooperation with hotels, airlines, and third-party transport operators to coordinate bookings. We reserve the right to decline booking requests at our sole discretion."
+        ]
+      },
+      {
+        "title": "Payments",
+        "icon": "fa-regular fa-credit-card",
+        "paragraphs": [
+          "To secure confirmed travel bookings, you agree to make deposits and payments in accordance with the specified schedules. Failure to pay balance amounts on time may result in cancellation of bookings without refund.",
+          "All online transactions are routed through encrypted gateways. For custom high-end itineraries and private charters, specialized payment and milestone installment rules apply as indicated in your contract."
+        ]
+      },
+      {
+        "title": "Availability",
+        "icon": "fa-solid fa-clock",
+        "paragraphs": [
+          "All luxury cruises, boutique hotel reservations, and custom excursions are subject to availability. If a requested service becomes unavailable, Velnora Travel will provide alternative options of equal value.",
+          "We continuously update package availability in coordination with our partners, but final confirmation depends on direct inventory locks at the time of deposit."
+        ]
+      },
+      {
+        "title": "Traveler Responsibility",
+        "icon": "fa-solid fa-user-shield",
+        "paragraphs": [
+          "Travelers are responsible for verifying their travel dates, details, passenger names, and preferences before completing a booking request. Any change fees imposed by suppliers are the responsibility of the traveler.",
+          "Travelers must also declare any health conditions, mobility restrictions, or dietary needs that could impact service delivery."
+        ]
+      },
+      {
+        "title": "Supplier Terms",
+        "icon": "fa-regular fa-handshake",
+        "paragraphs": [
+          "Bookings are subject to the specific rules and policies of the respective travel suppliers (e.g. airlines, resorts, cruise lines).",
+          "These rules may include restricted luggage limits or specific check-in schedules. It is your responsibility to review and comply with these rules throughout your journey."
+        ]
+      },
+      {
+        "title": "Travel Documents",
+        "icon": "fa-solid fa-passport",
+        "paragraphs": [
+          "Travelers must ensure they hold valid passports, tourist visas, and health certificates required for entry into foreign territories. Velnora Travel is not liable for entry denials resulting from document issues.",
+          "Passports must have at least six months validity remaining beyond your travel return date."
+        ]
+      },
+      {
+        "title": "Insurance Recommendation",
+        "icon": "fa-solid fa-briefcase-medical",
+        "paragraphs": [
+          "Velnora Travel highly recommends purchasing comprehensive travel insurance for all bookings. A suitable policy protects against unexpected cancellation costs, medical emergencies, and travel delays.",
+          "We can assist you in finding reputable insurance providers who offer suitable plans for luxury and international travel."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cancellation-policy",
+    "title": "Cancellation Policy",
+    "intro": "Please review our cancellation and refund policies carefully before completing your holiday bookings.",
+    "tocLabel": "IN THIS POLICY",
+    "helpText": "We're here to help with any questions about cancellations.",
+    "notice": "This Cancellation Policy may be updated from time to time. We encourage you to review this page periodically.",
+    "seoDescription": "Cancellation Policy for Velnora Travel.",
+    "lastUpdated": "2024-05-20",
+    "sections": [
+      {
+        "title": "Cancellation Requests",
+        "icon": "fa-regular fa-calendar-xmark",
+        "paragraphs": [
+          "All requests for booking cancellations or modifications must be submitted in writing directly to your designated Velnora Travel advisor. Cancellations are only active upon receipt of our written confirmation.",
+          "It is critical to initiate cancellation requests as early as possible to minimize penalty charges imposed by suppliers."
+        ]
+      },
+      {
+        "title": "Supplier Policies",
+        "icon": "fa-regular fa-handshake",
+        "paragraphs": [
+          "Cancellations are subject to the individual refund rules and fee structures of our respective travel suppliers (e.g. airlines, hotels, cruise lines).",
+          "Any supplier-imposed penalty fees are passed through to the client. Some boutique resorts and private villa charters maintain strictly non-refundable deposits during peak travel dates."
+        ]
+      },
+      {
+        "title": "Refund Timing",
+        "icon": "fa-solid fa-rotate-left",
+        "paragraphs": [
+          "Approved refunds are processed in the original form of payment. While Velnora Travel processes refunds within 7 to 10 business days, final availability in your account depends on your financial institution's clearance times.",
+          "We will issue a formal credit statement detailing the refund transaction."
+        ]
+      },
+      {
+        "title": "Non-Refundable Items",
+        "icon": "fa-solid fa-ban",
+        "paragraphs": [
+          "Certain booking components, including airline tickets, custom private charters, and promotional holiday packages, are explicitly marked as non-refundable at the time of booking confirmation.",
+          "Planning deposits and administrative processing charges are also non-refundable."
+        ]
+      },
+      {
+        "title": "Changes to Bookings",
+        "icon": "fa-solid fa-rotate",
+        "paragraphs": [
+          "Requesting modifications to travel dates or configurations is subject to availability and supplier approval. Change fees and rate differentials may apply to complete the requested modifications.",
+          "We will work to minimize supplier charges for any requested adjustments."
+        ]
+      },
+      {
+        "title": "Contact",
+        "icon": "fa-regular fa-envelope",
+        "paragraphs": [
+          "For cancellation requests, reservation changes, or detailed questions regarding refund eligibility, please contact our support desk using the communication channels below. You can write to cancellations@velnoratravels.com or contact your travel advisor directly.",
+          "We are here to support you through all modifications."
+        ]
+      }
+    ]
+  }
+]

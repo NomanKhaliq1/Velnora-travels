@@ -1,0 +1,62 @@
+{
+  "seo": {
+    "title": "FAQs",
+    "description": "Common questions about planning, booking, customization, and support with Velnora Travel."
+  },
+  "hero": {
+    "eyebrow": "QUESTIONS? WE HAVE ANSWERS",
+    "title": "Frequently Asked Questions",
+    "text": "Everything you need to know before planning your journey with Velnora Travel.",
+    "image": "/images/santorini_sunset.png"
+  },
+  "sidebar": {
+    "title": "We're here to help you travel better",
+    "text": "Our concierge team is dedicated to making every step of your journey seamless, personalized, and unforgettable.",
+    "points": [
+      {
+        "icon": "fa-regular fa-clock",
+        "title": "Quick & Thoughtful Responses",
+        "text": "We aim to reply to all inquiries within one business hour."
+      },
+      {
+        "icon": "fa-regular fa-user",
+        "title": "Tailored Travel Expertise",
+        "text": "From bespoke itineraries to special requests—we craft every detail."
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "title": "Travel with Confidence",
+        "text": "Your safety, comfort, and peace of mind are our top priorities."
+      }
+    ],
+    "callTitle": "Speak with a Travel Specialist"
+  },
+  "banner": {
+    "title": "Still have questions?",
+    "text": "Our travel experts are ready to help you plan your perfect escape.",
+    "image": "/images/santorini_luxury.png",
+    "ctaLabel": "CONTACT OUR CONCIERGE"
+  },
+  "trust": [
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "Trusted Travel",
+      "text": "Curated experiences you can rely on."
+    },
+    {
+      "icon": "fa-solid fa-headset",
+      "title": "Responsive Support",
+      "text": "We're here when you need us."
+    },
+    {
+      "icon": "fa-solid fa-lock",
+      "title": "Safe & Secure",
+      "text": "Your data & journeys are protected."
+    },
+    {
+      "icon": "fa-solid fa-heart",
+      "title": "Personalized Service",
+      "text": "Thoughtful details, memorable moments."
+    }
+  ]
+}

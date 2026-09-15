@@ -1,0 +1,18 @@
+{
+  "title": "Velnora Travels",
+  "description": "Luxury travel agency site rebuilt from PHP in Next.js 16. Every page is driven by JSON content managed through a login-protected admin panel with a schema-driven form editor, image uploads and zod validation, while trip inquiry, contact and newsletter forms land in an admin inbox with CSV export.",
+  "techTags": [
+    "Next.js",
+    "TypeScript",
+    "TailwindCSS",
+    "Zod",
+    "JWT"
+  ],
+  "source": "github",
+  "category": "Web",
+  "live_url": "",
+  "repo_name": "Velnora-travels",
+  "repo_link": true,
+  "image": "/projects/velnora-travels.webp",
+  "fetch": true
+}

@@ -1,0 +1,20 @@
+{
+  "seo": {
+    "title": "Vacation Packages",
+    "description": "Browse curated luxury, honeymoon, family, adventure, and cruise packages."
+  },
+  "hero": {
+    "eyebrow": "ELITE TOUR ESCAPES",
+    "title": "Vacation Packages Curated\nAround the *Way You Travel*",
+    "text": "Browse carefully planned escapes for honeymoons, family holidays, luxury retreats, cruises, and adventure-led journeys.",
+    "image": "/images/santorini_sunset.png",
+    "ctaLabel": "START PLANNING"
+  },
+  "regionsTitle": "EXPLORE BY REGION",
+  "cta": {
+    "title": "Not sure where to go?",
+    "text": "Tell us your travel style, dates, and budget.\nWe’ll help you shape the right journey.",
+    "image": "/images/journey_starts_banner.png",
+    "ctaLabel": "PLAN YOUR TRIP"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "aboutTitle": "About This Journey",
+  "itineraryTitle": "Day-by-Day Itinerary",
+  "experiencesTitle": "Stay & Experience Highlights",
+  "planTitle": "Plan This Escape",
+  "pricingNote": "Custom pricing based on season, accommodation & preferences.",
+  "planFeatures": [
+    {
+      "icon": "fa-solid fa-hotel",
+      "text": "Boutique Stays"
+    },
+    {
+      "icon": "fa-solid fa-compass",
+      "text": "Private Experiences"
+    },
+    {
+      "icon": "fa-solid fa-headset",
+      "text": "Concierge Support"
+    },
+    {
+      "icon": "fa-solid fa-sliders",
+      "text": "Flexible & Customizable"
+    }
+  ],
+  "helpTitle": "Have Questions?",
+  "helpText": "Our travel experts are here to help.",
+  "whyTitle": "Why Travelers Choose This Package",
+  "whyItems": [
+    {
+      "icon": "fa-solid fa-hotel",
+      "text": "Handpicked luxury stays with stunning views"
+    },
+    {
+      "icon": "fa-solid fa-user-check",
+      "text": "Private experiences designed for you"
+    },
+    {
+      "icon": "fa-solid fa-compass",
+      "text": "Perfect balance of relaxation & exploration"
+    },
+    {
+      "icon": "fa-solid fa-award",
+      "text": "Local expertise and 24/7 support"
+    }
+  ],
+  "perfectForTitle": "Perfect For",
+  "relatedTitle": "You May Also Love",
+  "galleryImages": [
+    "/images/santorini_sunset.png",
+    "/images/santorini_luxury.png",
+    "/images/japan_kyoto.png",
+    "/images/italy_amalfi.png",
+    "/images/maldives.png"
+  ]
+}

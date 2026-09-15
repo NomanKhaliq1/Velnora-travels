@@ -1,0 +1,154 @@
+{
+  "seo": {
+    "title": "About Us",
+    "description": "Discover the philosophy, legacy, and dedicated team behind Velnora Travel. We design luxury escapes and bespoke itineraries."
+  },
+  "hero": {
+    "eyebrow": "OUR STORY & VISION",
+    "title": "About Velnora *Travel*",
+    "text": "Designing customized itineraries, private retreats, and bespoke escape experiences for discerning global explorers since 2011.",
+    "image": "/images/italy_amalfi.png",
+    "cta": {
+      "label": "PLAN YOUR STORY",
+      "href": "/contact#trip-inquiry"
+    }
+  },
+  "intro": {
+    "eyebrow": "A LEGACY OF EXCELLENCE",
+    "title": "The Art of Luxury Travel,\nTailored for You",
+    "paragraphs": [
+      "At Velnora Travel, we believe a vacation should be more than just a destination—it should be a carefully orchestrated masterpiece. We specialize in curating luxury, highly personalized travel plans that balance exploration with absolute comfort and peace of mind.",
+      "Our specialists work with elite properties, trusted local guides, and private transport advisors globally to guarantee you enjoy seamless, worry-free experiences from your initial consultation to your flight home."
+    ],
+    "stats": [
+      {
+        "icon": "fa-solid fa-award",
+        "value": "15+",
+        "label": "YEARS OF LEGACY"
+      },
+      {
+        "icon": "fa-solid fa-compass",
+        "value": "100%",
+        "label": "CUSTOM ITINERARIES"
+      }
+    ],
+    "mainImage": "/images/about_advisor.png",
+    "topImage": "/images/italy_amalfi.png",
+    "bottomImage": "/images/santorini_luxury.png",
+    "stamp": {
+      "top": "CURATED WITH CARE",
+      "letter": "V",
+      "bottom": "WORLDWIDE"
+    }
+  },
+  "pillars": {
+    "eyebrow": "OUR PHILOSOPHY",
+    "title": "Three Pillars of Curated Travel",
+    "items": [
+      {
+        "icon": "fa-regular fa-compass",
+        "title": "Curated Curation",
+        "text": "We hand-select every luxury property, tour guide, and private transport so you can focus on what matters—your unforgettable experience."
+      },
+      {
+        "icon": "fa-solid fa-bell-concierge",
+        "title": "Seamless Coordination",
+        "text": "Your dedicated advisor oversees every booking detail with precision, ensuring a smooth and stress-free journey from start to finish."
+      },
+      {
+        "icon": "fa-solid fa-globe",
+        "title": "Authentic Immersions",
+        "text": "We connect you deeply with local cultures through exclusive experiences that create meaningful, memorable moments."
+      }
+    ]
+  },
+  "stats": [
+    {
+      "icon": "fa-solid fa-users",
+      "value": "15,000+",
+      "label": "Happy Clients"
+    },
+    {
+      "icon": "fa-solid fa-location-dot",
+      "value": "120+",
+      "label": "Destinations"
+    },
+    {
+      "icon": "fa-solid fa-award",
+      "value": "99.4%",
+      "label": "Satisfaction Rate"
+    },
+    {
+      "icon": "fa-solid fa-headset",
+      "value": "24/7",
+      "label": "Expert Support"
+    }
+  ],
+  "team": {
+    "eyebrow": "OUR EXPERTS",
+    "title": "Our Destination Specialists",
+    "text": "Meet the global advisors who turn your dream travel concepts into custom luxury itineraries.",
+    "members": [
+      {
+        "name": "Sofia Valente",
+        "role": "SENIOR TRAVEL ADVISOR",
+        "bio": "Specializing in Mediterranean coastlines, Italian private estate bookings, and boutique island escapes.",
+        "image": "/images/avatar_sara.png",
+        "linkedin": "",
+        "instagram": "",
+        "email": ""
+      },
+      {
+        "name": "Alexander Mercer",
+        "role": "LUXURY TRAVEL DESIGNER",
+        "bio": "Expert in bespoke African safaris, private safari lodges, and exclusive private island retreats.",
+        "image": "/images/avatar_usman.png",
+        "linkedin": "",
+        "instagram": "",
+        "email": ""
+      },
+      {
+        "name": "Kiara Chen",
+        "role": "CULTURAL CURATOR",
+        "bio": "Designs immersive heritage tours, traditional ryokan stays, and culinary escapes across Japan and Asia.",
+        "image": "/images/avatar_couple.png",
+        "linkedin": "",
+        "instagram": "",
+        "email": ""
+      },
+      {
+        "name": "Luca Romano",
+        "role": "EUROPE TRAVEL ADVISOR",
+        "bio": "Specialist in European luxury rail journeys, private vineyard tours, and exclusive art & architecture experiences.",
+        "image": "/images/luca_romano.png",
+        "linkedin": "",
+        "instagram": "",
+        "email": ""
+      }
+    ]
+  },
+  "promise": {
+    "eyebrow": "OUR PROMISE",
+    "title": "Extraordinary Journeys. Impeccable Standards.",
+    "text": "Every detail is curated with care, so you can travel with confidence and return with stories that last a lifetime.",
+    "image": "/images/luxury_car_amalfi.png",
+    "items": [
+      {
+        "icon": "fa-solid fa-compass",
+        "label": "Personalized Itineraries"
+      },
+      {
+        "icon": "fa-solid fa-award",
+        "label": "Handpicked Experiences"
+      },
+      {
+        "icon": "fa-solid fa-crown",
+        "label": "VIP Access & Upgrades"
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "label": "Peace of Mind Care"
+      }
+    ]
+  }
+}

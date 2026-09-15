@@ -1,0 +1,566 @@
+{
+  "seo": {
+    "title": "",
+    "description": "Discover unforgettable places and timeless memories. We design luxury escapes and dream vacations curated just for you."
+  },
+  "hero": {
+    "eyebrow": "JOURNEYS, CURATED FOR YOU",
+    "title": "Unforgettable Places.\nTimeless Memories.",
+    "text": "From dream vacations to luxury escapes, we design journeys that inspire, connect, and stay with you forever.",
+    "image": "/images/santorini_sunset.png",
+    "cta": {
+      "label": "EXPLORE PACKAGES",
+      "href": "/packages"
+    },
+    "videoLabel": "WATCH VIDEO",
+    "badge": {
+      "rating": "5.0",
+      "prefix": "Trusted by",
+      "count": "10,000+",
+      "suffix": "Happy Travelers"
+    },
+    "features": [
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "title": "BEST PRICE GUARANTEE",
+        "text": "We ensure you get the best value for your journey."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 TRAVEL SUPPORT",
+        "text": "Our experts are here for you anytime, anywhere."
+      },
+      {
+        "icon": "fa-solid fa-suitcase-rolling",
+        "title": "EXPERT TRAVEL ADVISORS",
+        "text": "Personalized recommendations tailored to you."
+      },
+      {
+        "icon": "fa-solid fa-lock",
+        "title": "SAFE & SECURE BOOKING",
+        "text": "Your data and payments are always protected."
+      }
+    ]
+  },
+  "popularDestinations": {
+    "eyebrow": "EXPLORE THE WORLD",
+    "title": "Popular Destinations",
+    "text": "Handpicked destinations loved by travelers around the world. Find your next adventure.",
+    "ctaLabel": "VIEW ALL DESTINATIONS",
+    "cards": [
+      {
+        "slug": "santorini-greece",
+        "icon": "fa-solid fa-hotel",
+        "text": "Stunning sunsets, whitewashed buildings, and crystal-clear waters.",
+        "regionLabel": "Europe",
+        "bestTime": "Apr - Oct"
+      },
+      {
+        "slug": "bali-indonesia",
+        "icon": "fa-solid fa-tree",
+        "text": "Tropical paradise with beautiful beaches and rich culture.",
+        "regionLabel": "Asia",
+        "bestTime": "May - Sep"
+      },
+      {
+        "slug": "kyoto-japan",
+        "icon": "fa-solid fa-torii-gate",
+        "text": "",
+        "regionLabel": "",
+        "bestTime": ""
+      },
+      {
+        "slug": "maldives",
+        "icon": "fa-solid fa-umbrella-beach",
+        "text": "Luxury escapes, overwater villas, and turquoise lagoons.",
+        "regionLabel": "Indian Ocean",
+        "bestTime": "Nov - Apr"
+      }
+    ],
+    "highlights": [
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "title": "Best Price Guarantee",
+        "text": "We ensure you get the best deals always."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Travel Support",
+        "text": "Round-the-clock assistance wherever you go."
+      },
+      {
+        "icon": "fa-solid fa-suitcase",
+        "title": "Handpicked Hotels",
+        "text": "Carefully selected comfort, quality, and value."
+      },
+      {
+        "icon": "fa-solid fa-circle-check",
+        "title": "Easy Booking",
+        "text": "Book your dream trip in just a few clicks."
+      }
+    ]
+  },
+  "complications": {
+    "eyebrow": "THE REALITY",
+    "title": "Why Travel Feels Complicated",
+    "text": "Planning a trip should be exciting, not exhausting. Travelers today face too many decisions, endless searches, and unexpected surprises.",
+    "image": "/images/stressed_traveler.png",
+    "tags": [
+      {
+        "icon": "fa-solid fa-sliders",
+        "text": "Too many options,\nhard to choose"
+      },
+      {
+        "icon": "fa-solid fa-magnifying-glass",
+        "text": "Endless searching\nacross multiple sites"
+      },
+      {
+        "icon": "fa-solid fa-dollar-sign",
+        "text": "Confusing prices\nand hidden fees"
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "text": "Worried about\nsafety and scams"
+      },
+      {
+        "icon": "fa-solid fa-question",
+        "text": "Unclear itineraries\nand unreliable info"
+      },
+      {
+        "icon": "fa-regular fa-user",
+        "text": "No personalization,\none-size-fits-all"
+      }
+    ],
+    "problems": [
+      {
+        "icon": "fa-solid fa-sliders",
+        "title": "Overwhelming Choices",
+        "text": "Too many options make it hard to decide what's best for you."
+      },
+      {
+        "icon": "fa-solid fa-magnifying-glass",
+        "title": "Time-Consuming Searches",
+        "text": "Hours spent comparing flights, hotels, and reviews across multiple platforms."
+      },
+      {
+        "icon": "fa-solid fa-tag",
+        "title": "Hidden Costs",
+        "text": "Unexpected fees and charges can turn your dream trip into a budget nightmare."
+      },
+      {
+        "icon": "fa-solid fa-circle-exclamation",
+        "title": "Unreliable Information",
+        "text": "Outdated details and fake reviews lead to wrong decisions."
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "title": "Safety Concerns",
+        "text": "Worries about scams, cancellations, and untrusted services."
+      },
+      {
+        "icon": "fa-regular fa-user",
+        "title": "No Personalization",
+        "text": "Generic recommendations don't match your preferences or travel style."
+      }
+    ],
+    "stripe": {
+      "title": "Travel should be simple, safe, and personal.",
+      "text": "That's exactly what we're here to change.",
+      "features": [
+        {
+          "icon": "fa-solid fa-circle-check",
+          "title": "Curated Options",
+          "text": "Handpicked experiences that match your style."
+        },
+        {
+          "icon": "fa-regular fa-clock",
+          "title": "Save Time",
+          "text": "Smart planning tools in one place."
+        },
+        {
+          "icon": "fa-solid fa-shield-halved",
+          "title": "Transparent Pricing",
+          "text": "No hidden fees, no surprises."
+        },
+        {
+          "icon": "fa-regular fa-heart",
+          "title": "Personalized for You",
+          "text": "Trips designed around your preferences."
+        }
+      ]
+    }
+  },
+  "experience": {
+    "eyebrow": "OUR PROMISE",
+    "title": "The Velnora *Experience*",
+    "text": "Thoughtfully designed journeys. Personalized for you. Seamless from start to finish.",
+    "steps": [
+      {
+        "icon": "fa-regular fa-comment-dots",
+        "label": "You Dream",
+        "summary": "Share your travel preferences, style, and budget. We translate your travel fantasies into a concrete outline.",
+        "showcaseTitle": "Your Journey Begins with a Dream",
+        "showcaseText": "Tell us your desires, preferred style, and budget. We translate your travel fantasies into a concrete outline.",
+        "image": "/images/paris_france.png"
+      },
+      {
+        "icon": "fa-solid fa-map-location-dot",
+        "label": "We Curate",
+        "summary": "We design a bespoke, day-by-day itinerary with handpicked luxury stays and exclusive experiences just for you.",
+        "showcaseTitle": "Bespoke Design & Curated Options",
+        "showcaseText": "We craft a detailed, day-by-day customized itinerary with premium accommodations, custom routes, and private experiences.",
+        "image": "/images/about_advisor.png"
+      },
+      {
+        "icon": "fa-regular fa-calendar-check",
+        "label": "You Relax",
+        "summary": "We manage all your bookings, transfers, and logistics behind the scenes. You simply pack and go.",
+        "showcaseTitle": "Total Peace of Mind While You Relax",
+        "showcaseText": "We manage every single booking, ticket, and transfer behind the scenes. You simply pack your bags and enjoy the build-up.",
+        "image": "/images/maldives.png"
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "label": "We Support",
+        "summary": "Our 24/7 global support and local concierges are always available to handle any adjustments during your trip.",
+        "showcaseTitle": "Elite 24/7 Global Concierge Support",
+        "showcaseText": "Whether you need to change a restaurant reservation or handle flight details, our support line is open round-the-clock.",
+        "image": "/images/italy_amalfi.png"
+      },
+      {
+        "icon": "fa-regular fa-heart",
+        "label": "You Cherish",
+        "summary": "Return home with incredible stories and a perfectly curated record of your ultimate luxury retreat.",
+        "showcaseTitle": "Memories to Cherish for a Lifetime",
+        "showcaseText": "Return home with unforgettable stories, professional travel logs, and a deep appreciation for the world's finest escapes.",
+        "image": "/images/bali_indonesia.png"
+      }
+    ],
+    "highlights": [
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "title": "Trusted & Loved",
+        "text": "10,000+ happy travelers around the world."
+      },
+      {
+        "icon": "fa-solid fa-earth-americas",
+        "title": "120+ Destinations",
+        "text": "Carefully selected places across the globe."
+      },
+      {
+        "icon": "fa-solid fa-award",
+        "title": "Expert Advisors",
+        "text": "Real people. Real expertise. Here for you."
+      },
+      {
+        "icon": "fa-solid fa-lock",
+        "title": "Safe & Secure",
+        "text": "Your bookings and payments are protected."
+      }
+    ]
+  },
+  "collections": {
+    "eyebrow": "HANDPICKED FOR YOU",
+    "title": "Curated *Vacation* Collections",
+    "text": "Thoughtfully crafted escapes for every kind of traveler. Extraordinary destinations. Seamless experiences.",
+    "items": [
+      {
+        "title": "Tropical Escapes",
+        "text": "Sun, sand, and serenity. Relax in paradise.",
+        "icon": "fa-solid fa-umbrella-beach",
+        "image": "/images/maldives.png",
+        "href": "/packages/luxury"
+      },
+      {
+        "title": "Adventure Awaits",
+        "text": "For the bold and curious. Adventures that inspire.",
+        "icon": "fa-solid fa-mountain-sun",
+        "image": "/images/adventure_awaits.png",
+        "href": "/packages/adventure"
+      },
+      {
+        "title": "Cultural Journeys",
+        "text": "Immerse in heritage, history, and local charm.",
+        "icon": "fa-solid fa-archway",
+        "image": "/images/japan_kyoto.png",
+        "href": "/destinations/asia"
+      },
+      {
+        "title": "Luxury Retreats",
+        "text": "Indulge in comfort, elevated every step.",
+        "icon": "fa-solid fa-spa",
+        "image": "/images/italy_amalfi.png",
+        "href": "/packages/luxury"
+      },
+      {
+        "title": "Family Getaways",
+        "text": "Memories made together in incredible places.",
+        "icon": "fa-solid fa-people-group",
+        "image": "/images/family_getaway.png",
+        "href": "/packages/family"
+      }
+    ],
+    "cta": {
+      "label": "VIEW ALL COLLECTIONS",
+      "href": "/packages"
+    }
+  },
+  "featuredDestination": {
+    "eyebrow": "FEATURED DESTINATION",
+    "title": "Discover *Santorini, Greece*",
+    "text": "Where whitewashed beauty meets endless blue. A timeless escape for the soul.",
+    "image": "/images/santorini_sunset.png",
+    "badgeTitle": "Santorini, Greece",
+    "ratingText": "4.9 (1,250+ Reviews)",
+    "subtitle": "Iconic views. Unforgettable moments.",
+    "body": "From breathtaking sunsets to charming villages and crystal-clear waters, Santorini is the perfect blend of romance, relaxation, and adventure.",
+    "highlights": [
+      {
+        "icon": "fa-solid fa-camera",
+        "title": "Stunning Views",
+        "text": "Breathtaking sunsets and panoramic caldera views."
+      },
+      {
+        "icon": "fa-solid fa-hotel",
+        "title": "Local Culture",
+        "text": "Charming villages, warm hospitality, rich traditions."
+      },
+      {
+        "icon": "fa-solid fa-water",
+        "title": "Crystal Waters",
+        "text": "Explore beautiful red sand beaches and clear blue seas."
+      },
+      {
+        "icon": "fa-solid fa-utensils",
+        "title": "Taste & Savor",
+        "text": "Delicious local cuisine, seafood, and exceptional wines."
+      }
+    ],
+    "bestTime": "April – October",
+    "idealFor": "Couples, Honeymoons & Families",
+    "cta": {
+      "label": "EXPLORE SANTORINI PACKAGES",
+      "href": "/packages/honeymoon"
+    }
+  },
+  "whyChoose": {
+    "eyebrow": "WHY CHOOSE US",
+    "title": "Why Travelers *Choose Velnora*",
+    "text": "We go beyond bookings. We deliver thoughtful experiences, personal care, and memories that stay with you forever.",
+    "image": "/images/santorini_luxury.png",
+    "imageKicker": "Premium Care",
+    "imageTitle": "Every Detail",
+    "badge": "THE VELNORA WAY",
+    "features": [
+      {
+        "icon": "fa-regular fa-user",
+        "title": "Personalized for You",
+        "text": "Every trip is tailored to your pace, preferences, travel style, and goals."
+      },
+      {
+        "icon": "fa-regular fa-star",
+        "title": "Handpicked Experiences",
+        "text": "We filter stays, routes, guides, and activities before they reach your itinerary."
+      },
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "title": "Trusted & Reliable",
+        "text": "Verified partners, clear details, and dependable support keep every plan steady."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Travel Support",
+        "text": "We're here anytime, anywhere — before, during, and after your trip."
+      },
+      {
+        "icon": "fa-regular fa-credit-card",
+        "title": "Best Value Guaranteed",
+        "text": "Premium experiences at strong value, with transparent pricing and no hidden surprises."
+      },
+      {
+        "icon": "fa-regular fa-paper-plane",
+        "title": "Seamless & Stress-Free",
+        "text": "From planning to return, we handle the details so you can relax."
+      }
+    ],
+    "stats": [
+      {
+        "value": "10k+",
+        "label": "Travelers"
+      },
+      {
+        "value": "24/7",
+        "label": "Concierge"
+      },
+      {
+        "value": "50+",
+        "label": "Destinations"
+      },
+      {
+        "value": "5.0",
+        "label": "Guest Rating"
+      }
+    ],
+    "cta": {
+      "label": "READY TO EXPERIENCE THE DIFFERENCE?",
+      "href": "/contact"
+    }
+  },
+  "process": {
+    "eyebrow": "YOUR JOURNEY, PERFECTLY PLANNED",
+    "title": "Journey Planning *Process*",
+    "text": "We make travel simple and meaningful. Here's how we turn your dream trip into reality.",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "text": "Tell us your travel style, preferences, interests, and budget."
+      },
+      {
+        "title": "We Curate Options",
+        "text": "Our experts handpick the best destinations, stays, and experiences just for you."
+      },
+      {
+        "title": "Refine & Perfect",
+        "text": "We fine-tune every detail until your itinerary is absolutely perfect."
+      },
+      {
+        "title": "We Handle Everything",
+        "text": "From bookings to logistics, we take care of it all — so you don't have to."
+      },
+      {
+        "title": "You Enjoy",
+        "text": "Relax and immerse yourself in unforgettable moments. We're with you all the way."
+      }
+    ],
+    "closing": {
+      "image": "/images/santorini_sunset.png",
+      "title": "From the first idea to the final moment,\nwe're here to make it extraordinary.",
+      "cta": {
+        "label": "LET'S PLAN YOUR JOURNEY",
+        "href": "/contact"
+      }
+    }
+  },
+  "stories": {
+    "eyebrow": "REAL JOURNEYS. REAL MEMORIES.",
+    "title": "Traveler *Stories*",
+    "text": "Every journey has a story. Here are real experiences from travelers who discovered the world with Velnora.",
+    "featured": {
+      "location": "SANTORINI, GREECE",
+      "title": "A Dream Come True",
+      "text": "Velnora planned every little detail perfectly. From breathtaking views to charming stays, our Santorini honeymoon was nothing short of magical.",
+      "image": "/images/traveler_stories_santorini.png",
+      "avatar": "/images/family_getaway.png",
+      "name": "Ayesha & Hamza",
+      "trip": "Honeymoon Escape",
+      "signature": "Thank you, Velnora!",
+      "stampText": "HANDPICKED EXPERIENCES - "
+    },
+    "testimonials": [
+      {
+        "quote": "From the first conversation to the last day of our trip, everything was seamless. Velnora truly cares about creating memories that last a lifetime.",
+        "name": "Sara M.",
+        "trip": "Canadian Rockies, Canada",
+        "avatar": "/images/about_advisor.png"
+      },
+      {
+        "quote": "The itinerary, the experiences, the support — everything exceeded our expectations. We felt taken care of every step of the way.",
+        "name": "Usman K.",
+        "trip": "Bali Escape",
+        "avatar": "/images/bali_indonesia.png"
+      }
+    ],
+    "closing": "Your story could be next.",
+    "cta": {
+      "label": "SHARE YOUR JOURNEY",
+      "href": "/contact"
+    }
+  },
+  "insights": {
+    "eyebrow": "KNOW MORE. TRAVEL BETTER.",
+    "title": "Travel *Insights*",
+    "text": "Expert tips, destination guides, and travel inspiration to help you explore the world with confidence.",
+    "ctaLabel": "Explore All Insights"
+  },
+  "faq": {
+    "eyebrow": "QUESTIONS? WE'VE GOT ANSWERS.",
+    "title": "Frequently *Asked Questions*",
+    "text": "Everything you need to know before you travel. Can't find what you're looking for? We're here to help.",
+    "image": "/images/maldives_faq.png",
+    "count": 6,
+    "card": {
+      "title": "Still have questions?",
+      "text": "Our travel experts are just a message away. We're happy to help!",
+      "ctaLabel": "CONTACT OUR TEAM"
+    },
+    "pillars": [
+      {
+        "icon": "fa-solid fa-shield-halved",
+        "title": "Trusted & Secure",
+        "text": "Your journey is in safe hands."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Support",
+        "text": "We're here whenever you need us."
+      },
+      {
+        "icon": "fa-regular fa-star",
+        "title": "Personalized Experiences",
+        "text": "Every detail tailored just for you."
+      },
+      {
+        "icon": "fa-solid fa-tags",
+        "title": "Best Price Promise",
+        "text": "Exceptional journeys at the best value."
+      }
+    ]
+  },
+  "journey": {
+    "title": "Your Journey\n*Starts Here*",
+    "text": "Dream it. Plan it. Live it.\nLet *Velnora* take care of the rest.",
+    "image": "/images/traveler_stories_santorini.png",
+    "cta": {
+      "label": "PLAN YOUR PERFECT GETAWAY",
+      "href": "/contact"
+    },
+    "script": "Adventure awaits. We'll take you there.",
+    "features": [
+      {
+        "icon": "fa-regular fa-heart",
+        "title": "Tailored For You",
+        "text": "Custom itineraries crafted around your dreams."
+      },
+      {
+        "icon": "fa-solid fa-earth-americas",
+        "title": "Expert Guidance",
+        "text": "Local knowledge and trusted travel expertise."
+      },
+      {
+        "icon": "fa-regular fa-circle-check",
+        "title": "Hassle-Free Travel",
+        "text": "We handle the details so you can enjoy every moment."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "Always Here",
+        "text": "24/7 support before, during and after your trip."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Get In Touch",
+    "title": "We'd Love to Hear From *You*",
+    "text": "Have questions, need help planning your trip, or ready to start your next adventure?\nOur travel experts are here to help you 24/7.",
+    "infoTitle": "Contact Information",
+    "formTitle": "Send Us a Message",
+    "formText": "Fill out the form below and we'll get back to you as soon as possible.",
+    "planningOptions": [
+      "Honeymoon Escape",
+      "Family Vacation",
+      "Luxury Getaway",
+      "Custom Adventure"
+    ],
+    "privacyNote": "Your information is secure and will never be shared."
+  }
+}

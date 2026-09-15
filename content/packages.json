@@ -1,0 +1,389 @@
+[
+  {
+    "slug": "santorini-luxury-escape",
+    "title": "Santorini Luxury Escape",
+    "destinationSlug": "santorini-greece",
+    "destination": "Santorini, Greece",
+    "type": "luxury",
+    "styles": [
+      "Luxury",
+      "Honeymoon"
+    ],
+    "duration": "6 Days / 5 Nights",
+    "priceText": "Price on request",
+    "image": "/images/traveler_stories_santorini.png",
+    "summary": "A refined island escape with boutique stays, sunset views, and relaxed private experiences.",
+    "overview": "This package is designed for travelers who want Santorini’s beauty without planning every detail themselves.",
+    "bestTime": "April to October",
+    "idealFor": "Couples and luxury travelers",
+    "highlights": [
+      {
+        "icon": "fa-solid fa-couch",
+        "title": "Boutique Stays",
+        "text": "Hand-picked for comfort and charm."
+      },
+      {
+        "icon": "fa-solid fa-compass",
+        "title": "Private Tours",
+        "text": "Curated moments, just for you."
+      },
+      {
+        "icon": "fa-solid fa-mountain-sun",
+        "title": "Scenic Views",
+        "text": "Sunsets, caldera cliffs & azure seas."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Concierge",
+        "text": "We're here for you every step."
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Santorini",
+        "description": "Arrive, settle in, and enjoy a quiet first sunset."
+      },
+      {
+        "day": 2,
+        "title": "Caldera Villages",
+        "description": "Explore Fira, Imerovigli, and Oia at a relaxed pace."
+      },
+      {
+        "day": 3,
+        "title": "Private Sailing",
+        "description": "Spend time on the water with caldera views."
+      }
+    ],
+    "experiences": [
+      {
+        "icon": "fa-solid fa-bed",
+        "title": "Cliffside Suites",
+        "text": "Wake up to caldera views.",
+        "image": "/images/santorini_sunset.png"
+      },
+      {
+        "icon": "fa-solid fa-sailboat",
+        "title": "Sunset Sailing",
+        "text": "Private yacht experience.",
+        "image": "/images/santorini_luxury.png"
+      },
+      {
+        "icon": "fa-solid fa-wine-glass",
+        "title": "Authentic Dining",
+        "text": "Taste Santorini's finest.",
+        "image": "/images/italy_amalfi.png"
+      },
+      {
+        "icon": "fa-solid fa-car",
+        "title": "Private Transfers",
+        "text": "Seamless & comfortable.",
+        "image": "/images/maldives.png"
+      }
+    ],
+    "included": [
+      "Selected boutique hotel stay",
+      "Daily breakfast",
+      "Private airport transfers",
+      "All experiences as per itinerary",
+      "Itinerary planning & concierge support"
+    ],
+    "notIncluded": [
+      "International flights",
+      "Visa fees",
+      "Travel insurance",
+      "Personal expenses",
+      "Tips & gratuities"
+    ],
+    "perfectFor": [
+      "Honeymooners",
+      "Couples",
+      "Anniversaries",
+      "Luxury Seekers"
+    ],
+    "faq": [
+      {
+        "question": "Can this be customized?",
+        "answer": "Yes. Dates, stay style, and pacing can be adjusted."
+      }
+    ]
+  },
+  {
+    "slug": "amalfi-honeymoon-trip",
+    "title": "Amalfi Honeymoon Trip",
+    "destinationSlug": "amalfi-coast-italy",
+    "destination": "Amalfi Coast, Italy",
+    "type": "honeymoon",
+    "styles": [
+      "Honeymoon",
+      "Luxury"
+    ],
+    "duration": "7 Days / 6 Nights",
+    "priceText": "Price on request",
+    "image": "/images/italy_amalfi.png",
+    "summary": "A romantic Italian coast journey with boutique stays and scenic days.",
+    "overview": "A polished honeymoon route through Italy’s most beloved coast.",
+    "bestTime": "May to September",
+    "idealFor": "Couples",
+    "highlights": [
+      {
+        "icon": "fa-solid fa-couch",
+        "title": "Boutique Stays",
+        "text": "Hand-picked for comfort and charm."
+      },
+      {
+        "icon": "fa-solid fa-compass",
+        "title": "Private Tours",
+        "text": "Curated moments, just for you."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Concierge",
+        "text": "We're here for you every step."
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive on the coast",
+        "description": "Transfer to your hotel and settle in."
+      }
+    ],
+    "experiences": [],
+    "included": [
+      "Hotel stay",
+      "Transfers",
+      "Planning support"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Personal expenses"
+    ],
+    "perfectFor": [
+      "Couples"
+    ],
+    "faq": []
+  },
+  {
+    "slug": "kyoto-cultural-family-holiday",
+    "title": "Kyoto Cultural Family Holiday",
+    "destinationSlug": "kyoto-japan",
+    "destination": "Kyoto, Japan",
+    "type": "family",
+    "styles": [
+      "Family",
+      "Cultural"
+    ],
+    "duration": "6 Days / 5 Nights",
+    "priceText": "Price on request",
+    "image": "/images/japan_kyoto.png",
+    "summary": "A balanced family trip through temples, gardens, food, and hands-on culture.",
+    "overview": "Designed for families who want Japan to feel rich but not rushed.",
+    "bestTime": "Spring and autumn",
+    "idealFor": "Families",
+    "highlights": [
+      {
+        "icon": "fa-solid fa-couch",
+        "title": "Boutique Stays",
+        "text": "Hand-picked for comfort and charm."
+      },
+      {
+        "icon": "fa-solid fa-compass",
+        "title": "Private Tours",
+        "text": "Curated moments, just for you."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Concierge",
+        "text": "We're here for you every step."
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kyoto arrival",
+        "description": "Settle in and enjoy an easy first evening."
+      }
+    ],
+    "experiences": [],
+    "included": [
+      "Stay selection",
+      "Guided activity planning"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Insurance"
+    ],
+    "perfectFor": [
+      "Families"
+    ],
+    "faq": []
+  },
+  {
+    "slug": "maldives-beach-retreat",
+    "title": "Maldives Beach Retreat",
+    "destinationSlug": "maldives",
+    "destination": "Maldives",
+    "type": "luxury",
+    "styles": [
+      "Beach",
+      "Luxury"
+    ],
+    "duration": "5 Days / 4 Nights",
+    "priceText": "Price on request",
+    "image": "/images/maldives.png",
+    "summary": "Private island calm with overwater villa options and slow luxury.",
+    "overview": "A resort-led escape designed around privacy and rest.",
+    "bestTime": "November to April",
+    "idealFor": "Couples, families, wellness travelers",
+    "highlights": [
+      {
+        "icon": "fa-solid fa-couch",
+        "title": "Boutique Stays",
+        "text": "Hand-picked for comfort and charm."
+      },
+      {
+        "icon": "fa-solid fa-compass",
+        "title": "Private Tours",
+        "text": "Curated moments, just for you."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Concierge",
+        "text": "We're here for you every step."
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Island arrival",
+        "description": "Transfer by boat or seaplane to your resort."
+      }
+    ],
+    "experiences": [],
+    "included": [
+      "Resort stay guidance",
+      "Transfer coordination"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Resort extras"
+    ],
+    "perfectFor": [
+      "Couples",
+      "families",
+      "wellness travelers"
+    ],
+    "faq": []
+  },
+  {
+    "slug": "bali-adventure-tour",
+    "title": "Bali Adventure Tour",
+    "destinationSlug": "bali-indonesia",
+    "destination": "Bali, Indonesia",
+    "type": "adventure",
+    "styles": [
+      "Adventure",
+      "Cultural"
+    ],
+    "duration": "8 Days / 7 Nights",
+    "priceText": "Price on request",
+    "image": "/images/bali_indonesia.png",
+    "summary": "Temples, terraces, beaches, and soft adventure across Bali.",
+    "overview": "A multi-area Bali itinerary with movement, culture, and downtime.",
+    "bestTime": "April to October",
+    "idealFor": "Adventure travelers",
+    "highlights": [
+      {
+        "icon": "fa-solid fa-couch",
+        "title": "Boutique Stays",
+        "text": "Hand-picked for comfort and charm."
+      },
+      {
+        "icon": "fa-solid fa-compass",
+        "title": "Private Tours",
+        "text": "Curated moments, just for you."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Concierge",
+        "text": "We're here for you every step."
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Ubud arrival",
+        "description": "Begin in Bali’s cultural heart."
+      }
+    ],
+    "experiences": [],
+    "included": [
+      "Hotel planning",
+      "Experience planning"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Visa fees"
+    ],
+    "perfectFor": [
+      "Adventure travelers"
+    ],
+    "faq": []
+  },
+  {
+    "slug": "mediterranean-cruise-escape",
+    "title": "Mediterranean Cruise Escape",
+    "destinationSlug": "amalfi-coast-italy",
+    "destination": "Mediterranean",
+    "type": "cruise",
+    "styles": [
+      "Cruise",
+      "Luxury"
+    ],
+    "duration": "9 Days / 8 Nights",
+    "priceText": "Price on request",
+    "image": "/images/paris_france.png",
+    "summary": "A cruise-led Mediterranean route with refined ports and planning support.",
+    "overview": "A smooth cruise experience for travelers who want multiple destinations with less unpacking.",
+    "bestTime": "May to October",
+    "idealFor": "Cruise travelers",
+    "highlights": [
+      {
+        "icon": "fa-solid fa-couch",
+        "title": "Boutique Stays",
+        "text": "Hand-picked for comfort and charm."
+      },
+      {
+        "icon": "fa-solid fa-compass",
+        "title": "Private Tours",
+        "text": "Curated moments, just for you."
+      },
+      {
+        "icon": "fa-solid fa-headset",
+        "title": "24/7 Concierge",
+        "text": "We're here for you every step."
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Embarkation",
+        "description": "Board and settle into your cabin."
+      }
+    ],
+    "experiences": [],
+    "included": [
+      "Cruise planning support",
+      "Port guidance"
+    ],
+    "notIncluded": [
+      "Flights",
+      "Shore extras"
+    ],
+    "perfectFor": [
+      "Cruise travelers"
+    ],
+    "faq": []
+  }
+]

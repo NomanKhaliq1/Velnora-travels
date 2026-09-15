@@ -1,0 +1,374 @@
+[
+  {
+    "slug": "santorini-greece",
+    "name": "Santorini",
+    "country": "Greece",
+    "title": "Santorini, Greece",
+    "region": "europe",
+    "styles": [
+      "luxury",
+      "honeymoon",
+      "cultural"
+    ],
+    "image": "/images/santorini_sunset.png",
+    "heroImage": "/images/traveler_stories_santorini.png",
+    "description": "Whitewashed villages, caldera sunsets, and quiet luxury above the Aegean.",
+    "bestTime": "April to October",
+    "idealDuration": "5 to 7 days",
+    "currency": "Euro",
+    "language": "Greek",
+    "overview": "Santorini blends cliffside views, boutique stays, local dining, and slow island days into a refined Mediterranean escape.",
+    "highlights": [
+      "Caldera sunsets",
+      "Boutique cave hotels",
+      "Sunset sailing",
+      "Local dining"
+    ],
+    "thingsToDo": [
+      {
+        "title": "Watch the Oia sunset",
+        "description": "Experience one of the Mediterranean’s most iconic views."
+      },
+      {
+        "title": "Sail the caldera",
+        "description": "Spend a relaxed day on the water with volcanic coastline views."
+      },
+      {
+        "title": "Taste local wine",
+        "description": "Visit small wineries known for mineral-rich island varietals."
+      },
+      {
+        "title": "Stay in a Cliffside Suite",
+        "description": "Wake up to breathtaking views in luxurious cliffside retreats."
+      },
+      {
+        "title": "Explore Hidden Alleys",
+        "description": "Wander charming lanes filled with local shops, art, and timeless beauty."
+      }
+    ],
+    "signatureExperiences": [
+      {
+        "icon": "fa-solid fa-bell-concierge",
+        "title": "Private Dining with a View",
+        "text": "A carefully arranged dinner with a setting that feels personal and memorable.",
+        "image": "/images/santorini_sunset.png"
+      },
+      {
+        "icon": "fa-regular fa-compass",
+        "title": "Guided Local Moments",
+        "text": "Expert-led experiences paced around your style, interests, and comfort.",
+        "image": "/images/japan_kyoto.png"
+      },
+      {
+        "icon": "fa-solid fa-spa",
+        "title": "Wellness & Relaxation",
+        "text": "Quiet escapes, restorative stays, and soft luxury between every discovery.",
+        "image": "/images/maldives.png"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Santorini good for honeymoons?",
+        "answer": "Yes. It is one of the strongest honeymoon choices for views, stays, and atmosphere."
+      },
+      {
+        "question": "How long should I stay?",
+        "answer": "Five to seven days works well for a relaxed first visit."
+      }
+    ]
+  },
+  {
+    "slug": "amalfi-coast-italy",
+    "name": "Amalfi Coast",
+    "country": "Italy",
+    "title": "Amalfi Coast, Italy",
+    "region": "europe",
+    "styles": [
+      "luxury",
+      "cultural",
+      "honeymoon"
+    ],
+    "image": "/images/italy_amalfi.png",
+    "heroImage": "/images/italy_amalfi.png",
+    "description": "Coastal villages, private drives, lemon gardens, and elegant Italian seaside stays.",
+    "bestTime": "May to September",
+    "idealDuration": "6 to 8 days",
+    "currency": "Euro",
+    "language": "Italian",
+    "overview": "The Amalfi Coast is ideal for travelers who want scenic roads, refined hotels, coastal dining, and easy access to historic towns.",
+    "highlights": [
+      "Positano stays",
+      "Capri day trip",
+      "Coastal dining",
+      "Historic villages"
+    ],
+    "thingsToDo": [
+      {
+        "title": "Explore Positano",
+        "description": "Walk layered streets, boutiques, and terraces overlooking the sea."
+      },
+      {
+        "title": "Visit Capri",
+        "description": "Plan a polished island day with private transfers and relaxed timing."
+      }
+    ],
+    "signatureExperiences": [
+      {
+        "icon": "fa-solid fa-bell-concierge",
+        "title": "Private Dining with a View",
+        "text": "A carefully arranged dinner with a setting that feels personal and memorable.",
+        "image": "/images/santorini_sunset.png"
+      },
+      {
+        "icon": "fa-regular fa-compass",
+        "title": "Guided Local Moments",
+        "text": "Expert-led experiences paced around your style, interests, and comfort.",
+        "image": "/images/japan_kyoto.png"
+      },
+      {
+        "icon": "fa-solid fa-spa",
+        "title": "Wellness & Relaxation",
+        "text": "Quiet escapes, restorative stays, and soft luxury between every discovery.",
+        "image": "/images/maldives.png"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Amalfi better with a car?",
+        "answer": "Private transfers are usually smoother than self-driving in peak season."
+      }
+    ]
+  },
+  {
+    "slug": "kyoto-japan",
+    "name": "Kyoto",
+    "country": "Japan",
+    "title": "Kyoto, Japan",
+    "region": "asia",
+    "styles": [
+      "cultural",
+      "luxury",
+      "family"
+    ],
+    "image": "/images/japan_kyoto.png",
+    "heroImage": "/images/japan_kyoto.png",
+    "description": "Temples, tea houses, refined ryokans, gardens, and deeply immersive culture.",
+    "bestTime": "March to May, October to November",
+    "idealDuration": "4 to 6 days",
+    "currency": "Japanese Yen",
+    "language": "Japanese",
+    "overview": "Kyoto offers calm cultural depth, elegant stays, seasonal beauty, and carefully paced exploration.",
+    "highlights": [
+      "Temple visits",
+      "Tea ceremony",
+      "Arashiyama",
+      "Seasonal gardens"
+    ],
+    "thingsToDo": [
+      {
+        "title": "Visit quiet temples",
+        "description": "Plan early access and less crowded routes."
+      }
+    ],
+    "signatureExperiences": [
+      {
+        "icon": "fa-solid fa-bell-concierge",
+        "title": "Private Dining with a View",
+        "text": "A carefully arranged dinner with a setting that feels personal and memorable.",
+        "image": "/images/santorini_sunset.png"
+      },
+      {
+        "icon": "fa-regular fa-compass",
+        "title": "Guided Local Moments",
+        "text": "Expert-led experiences paced around your style, interests, and comfort.",
+        "image": "/images/japan_kyoto.png"
+      },
+      {
+        "icon": "fa-solid fa-spa",
+        "title": "Wellness & Relaxation",
+        "text": "Quiet escapes, restorative stays, and soft luxury between every discovery.",
+        "image": "/images/maldives.png"
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is Kyoto most beautiful?",
+        "answer": "Cherry blossom and autumn foliage seasons are especially popular."
+      }
+    ]
+  },
+  {
+    "slug": "maldives",
+    "name": "Maldives",
+    "country": "Maldives",
+    "title": "Maldives",
+    "region": "asia",
+    "styles": [
+      "beach",
+      "luxury",
+      "honeymoon"
+    ],
+    "image": "/images/maldives.png",
+    "heroImage": "/images/maldives_faq.png",
+    "description": "Private island resorts, turquoise water, overwater villas, and calm luxury.",
+    "bestTime": "November to April",
+    "idealDuration": "5 to 8 days",
+    "currency": "Maldivian Rufiyaa",
+    "language": "Dhivehi",
+    "overview": "The Maldives is built for travelers who want privacy, warm water, slow mornings, and a resort-led escape.",
+    "highlights": [
+      "Overwater villas",
+      "Snorkeling",
+      "Private dining",
+      "Spa days"
+    ],
+    "thingsToDo": [
+      {
+        "title": "Choose the right island",
+        "description": "Resort style matters: quiet, family, wellness, or activity-led."
+      }
+    ],
+    "signatureExperiences": [
+      {
+        "icon": "fa-solid fa-bell-concierge",
+        "title": "Private Dining with a View",
+        "text": "A carefully arranged dinner with a setting that feels personal and memorable.",
+        "image": "/images/santorini_sunset.png"
+      },
+      {
+        "icon": "fa-regular fa-compass",
+        "title": "Guided Local Moments",
+        "text": "Expert-led experiences paced around your style, interests, and comfort.",
+        "image": "/images/japan_kyoto.png"
+      },
+      {
+        "icon": "fa-solid fa-spa",
+        "title": "Wellness & Relaxation",
+        "text": "Quiet escapes, restorative stays, and soft luxury between every discovery.",
+        "image": "/images/maldives.png"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Maldives only for couples?",
+        "answer": "No. There are excellent family and wellness resorts too."
+      }
+    ]
+  },
+  {
+    "slug": "bali-indonesia",
+    "name": "Bali",
+    "country": "Indonesia",
+    "title": "Bali, Indonesia",
+    "region": "asia",
+    "styles": [
+      "adventure",
+      "beach",
+      "cultural"
+    ],
+    "image": "/images/bali_indonesia.png",
+    "heroImage": "/images/bali_indonesia.png",
+    "description": "Rice terraces, beach clubs, wellness villas, temples, and easy adventure.",
+    "bestTime": "April to October",
+    "idealDuration": "7 to 10 days",
+    "currency": "Indonesian Rupiah",
+    "language": "Indonesian",
+    "overview": "Bali works beautifully for mixed trips: culture, coastline, dining, wellness, and soft adventure.",
+    "highlights": [
+      "Ubud villas",
+      "Temple visits",
+      "Surf beaches",
+      "Wellness"
+    ],
+    "thingsToDo": [
+      {
+        "title": "Split your stay",
+        "description": "Combine Ubud with a coast stay for a richer trip."
+      }
+    ],
+    "signatureExperiences": [
+      {
+        "icon": "fa-solid fa-bell-concierge",
+        "title": "Private Dining with a View",
+        "text": "A carefully arranged dinner with a setting that feels personal and memorable.",
+        "image": "/images/santorini_sunset.png"
+      },
+      {
+        "icon": "fa-regular fa-compass",
+        "title": "Guided Local Moments",
+        "text": "Expert-led experiences paced around your style, interests, and comfort.",
+        "image": "/images/japan_kyoto.png"
+      },
+      {
+        "icon": "fa-solid fa-spa",
+        "title": "Wellness & Relaxation",
+        "text": "Quiet escapes, restorative stays, and soft luxury between every discovery.",
+        "image": "/images/maldives.png"
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many days in Bali?",
+        "answer": "Seven to ten days lets you experience two areas without rushing."
+      }
+    ]
+  },
+  {
+    "slug": "canadian-rockies",
+    "name": "Canadian Rockies",
+    "country": "Canada",
+    "title": "Canadian Rockies, Canada",
+    "region": "americas",
+    "styles": [
+      "adventure",
+      "family",
+      "luxury"
+    ],
+    "image": "/images/adventure_awaits.png",
+    "heroImage": "/images/adventure_awaits.png",
+    "description": "Mountain lodges, lake views, scenic drives, and guided outdoor moments.",
+    "bestTime": "June to September",
+    "idealDuration": "6 to 9 days",
+    "currency": "Canadian Dollar",
+    "language": "English",
+    "overview": "The Canadian Rockies are ideal for travelers who want wide landscapes, comfort, and guided nature experiences.",
+    "highlights": [
+      "Lake Louise",
+      "Scenic drives",
+      "Mountain lodges",
+      "Wildlife routes"
+    ],
+    "thingsToDo": [
+      {
+        "title": "Plan scenic pacing",
+        "description": "Build in time for weather, viewpoints, and slower drives."
+      }
+    ],
+    "signatureExperiences": [
+      {
+        "icon": "fa-solid fa-bell-concierge",
+        "title": "Private Dining with a View",
+        "text": "A carefully arranged dinner with a setting that feels personal and memorable.",
+        "image": "/images/santorini_sunset.png"
+      },
+      {
+        "icon": "fa-regular fa-compass",
+        "title": "Guided Local Moments",
+        "text": "Expert-led experiences paced around your style, interests, and comfort.",
+        "image": "/images/japan_kyoto.png"
+      },
+      {
+        "icon": "fa-solid fa-spa",
+        "title": "Wellness & Relaxation",
+        "text": "Quiet escapes, restorative stays, and soft luxury between every discovery.",
+        "image": "/images/maldives.png"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is this good for families?",
+        "answer": "Yes. It is one of the best nature-focused family trips."
+      }
+    ]
+  }
+]

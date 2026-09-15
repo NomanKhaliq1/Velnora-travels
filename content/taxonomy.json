@@ -1,0 +1,122 @@
+{
+  "regions": [
+    {
+      "slug": "europe",
+      "label": "Europe",
+      "icon": "fa-solid fa-archway",
+      "description": "Historic cities, coastal retreats, and timeless charm."
+    },
+    {
+      "slug": "asia",
+      "label": "Asia",
+      "icon": "fa-solid fa-gopuram",
+      "description": "Spiritual journeys, vibrant cultures, and serene escapes."
+    },
+    {
+      "slug": "americas",
+      "label": "Americas",
+      "icon": "fa-solid fa-mountain",
+      "description": "Epic landscapes, diverse cultures, and adventure."
+    },
+    {
+      "slug": "oceania",
+      "label": "Oceania",
+      "icon": "fa-solid fa-umbrella-beach",
+      "description": "Island paradises and laid-back luxury."
+    },
+    {
+      "slug": "middle-east",
+      "label": "Middle East",
+      "icon": "fa-solid fa-mosque",
+      "description": "Desert landscapes, ancient heritage, and modern luxury."
+    }
+  ],
+  "travelStyles": [
+    {
+      "slug": "luxury",
+      "label": "Luxury"
+    },
+    {
+      "slug": "honeymoon",
+      "label": "Honeymoon"
+    },
+    {
+      "slug": "family",
+      "label": "Family"
+    },
+    {
+      "slug": "adventure",
+      "label": "Adventure"
+    },
+    {
+      "slug": "beach",
+      "label": "Beach"
+    },
+    {
+      "slug": "cultural",
+      "label": "Cultural"
+    }
+  ],
+  "packageTypes": [
+    {
+      "slug": "luxury",
+      "label": "Luxury Escapes"
+    },
+    {
+      "slug": "honeymoon",
+      "label": "Honeymoon Trips"
+    },
+    {
+      "slug": "family",
+      "label": "Family Holidays"
+    },
+    {
+      "slug": "adventure",
+      "label": "Adventure Tours"
+    },
+    {
+      "slug": "cruise",
+      "label": "Cruises"
+    },
+    {
+      "slug": "beach",
+      "label": "Beach Retreats"
+    },
+    {
+      "slug": "cultural",
+      "label": "Cultural Tours"
+    }
+  ],
+  "articleCategories": [
+    {
+      "slug": "destination-guides",
+      "label": "Destination Guides",
+      "icon": "fa-solid fa-map-pin"
+    },
+    {
+      "slug": "travel-tips",
+      "label": "Travel Tips",
+      "icon": "fa-regular fa-lightbulb"
+    },
+    {
+      "slug": "visa",
+      "label": "Visa & Entry",
+      "icon": "fa-regular fa-id-card"
+    },
+    {
+      "slug": "honeymoon",
+      "label": "Honeymoon",
+      "icon": "fa-regular fa-heart"
+    },
+    {
+      "slug": "cruise",
+      "label": "Cruises",
+      "icon": "fa-solid fa-ship"
+    },
+    {
+      "slug": "family",
+      "label": "Family Travel",
+      "icon": "fa-solid fa-users"
+    }
+  ]
+}

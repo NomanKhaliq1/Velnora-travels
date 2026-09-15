@@ -1,0 +1,16 @@
+{
+  "seo": {
+    "title": "Travel Guide",
+    "description": "Expert tips, destination ideas, and planning advice."
+  },
+  "hero": {
+    "eyebrow": "KNOW MORE. TRAVEL BETTER.",
+    "title": "Travel Guide",
+    "text": "Expert tips, destination ideas, and planning advice\nto help you travel with more confidence.",
+    "image": "/images/santorini_sunset.png"
+  },
+  "newsletter": {
+    "title": "Get thoughtful travel ideas in your inbox",
+    "text": "Subscribe for destination inspiration, planning tips, and seasonal travel ideas."
+  }
+}

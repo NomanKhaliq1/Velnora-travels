@@ -1,0 +1,21 @@
+{
+  "whyVisitLabel": "Why Visit",
+  "tagline": "Curated experiences. Handpicked stays. Unforgettable memories.",
+  "signatureKicker": "A Curated Escape",
+  "signatureTitle": "Signature Experiences",
+  "signatureText": "Handpicked moments that capture the essence of {name}, designed for travelers who seek more.",
+  "signatureCtaLabel": "Explore All Experiences",
+  "relatedTitle": "Related Packages",
+  "relatedBadges": [
+    "Bestseller",
+    "For Couples",
+    "Handpicked"
+  ],
+  "galleryImages": [
+    "/images/santorini_sunset.png",
+    "/images/santorini_luxury.png",
+    "/images/japan_kyoto.png",
+    "/images/italy_amalfi.png",
+    "/images/maldives.png"
+  ]
+}

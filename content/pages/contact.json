@@ -1,0 +1,98 @@
+{
+  "seo": {
+    "title": "Contact Us",
+    "description": "Connect with Velnora Travel specialists to plan your next luxury escape."
+  },
+  "hero": {
+    "eyebrow": "GET IN TOUCH",
+    "title": "We’d Love to Hear *From You*",
+    "text": "Have questions, need help planning your trip, or ready to start your next adventure? Our travel experts are here to help.",
+    "image": "/images/santorini_sunset.png",
+    "cta": {
+      "label": "START PLANNING",
+      "href": "#trip-inquiry"
+    }
+  },
+  "advisor": {
+    "kicker": "YOUR PERSONAL TRAVEL CONCIERGE",
+    "name": "Isabella Martinez",
+    "role": "SENIOR TRAVEL ADVISOR",
+    "image": "/images/about_advisor.png",
+    "ctaLabel": "BOOK A CONSULTATION",
+    "signature": "Isabella M.",
+    "tagline": "HERE TO DESIGN YOUR PERFECT ESCAPE"
+  },
+  "form": {
+    "title": "Let's Plan Something Extraordinary",
+    "text": "Share a few details about your trip and we'll take care of the rest.",
+    "submitLabel": "BEGIN PLANNING MY JOURNEY",
+    "privacyNote": "Your information is 100% secure and will never be shared.",
+    "referralOptions": [
+      "Social Media",
+      "Search Engine (Google)",
+      "Friend or Family Recommendation",
+      "Travel Blog / Article",
+      "Other"
+    ],
+    "tripTypes": [
+      "Luxury Escape",
+      "Honeymoon",
+      "Family Holiday",
+      "Adventure",
+      "Cruise"
+    ],
+    "budgets": [
+      "$5,000 - $10,000",
+      "$10,000 - $20,000",
+      "$20,000 - $50,000",
+      "$50,000+"
+    ],
+    "purposes": [
+      "Leisure & Relaxation",
+      "Celebration / Anniversary",
+      "Business & Leisure (Bleisure)",
+      "Culinary / Wine Tour",
+      "Other"
+    ],
+    "accommodations": [
+      "5-Star Luxury Resort",
+      "Boutique Hotel",
+      "Private Villa / Estate",
+      "Luxury Cruise Cabin",
+      "No Preference"
+    ]
+  },
+  "trust": [
+    {
+      "icon": "fa-regular fa-clock",
+      "title": "Reply within one business day",
+      "text": "We value your time."
+    },
+    {
+      "icon": "fa-solid fa-lock",
+      "title": "Completely private inquiry",
+      "text": "Your details are safe with us."
+    },
+    {
+      "icon": "fa-solid fa-crosshairs",
+      "title": "Tailored itinerary planning",
+      "text": "Curated around your dreams."
+    },
+    {
+      "icon": "fa-regular fa-user",
+      "title": "One dedicated travel advisor",
+      "text": "From start to finish."
+    }
+  ],
+  "faq": {
+    "eyebrow": "BEFORE WE BEGIN",
+    "title": "Frequently Asked Questions",
+    "text": "Quick answers to help you feel confident before you reach out.",
+    "ctaLabel": "STILL HAVE QUESTIONS?"
+  },
+  "cta": {
+    "title": "Not ready to plan yet?",
+    "text": "Explore curated destinations and find the journey that feels right.",
+    "image": "/images/maldives.png"
+  }
+}

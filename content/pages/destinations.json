@@ -1,0 +1,20 @@
+{
+  "seo": {
+    "title": "Curated Destinations",
+    "description": "Explore curated destinations by region, style, and travel preferences."
+  },
+  "hero": {
+    "eyebrow": "CURATED DESTINATIONS",
+    "title": "Explore Destinations Crafted\nfor *Unforgettable Travel*",
+    "text": "From iconic escapes to hidden gems, discover places carefully selected for meaningful journeys.",
+    "image": "/images/santorini_sunset.png",
+    "ctaLabel": "START PLANNING"
+  },
+  "regionsTitle": "EXPLORE BY REGION",
+  "cta": {
+    "title": "Not sure where to go?",
+    "text": "Tell us your travel style, dates, and budget.\nWe’ll help you shape the right journey.",
+    "image": "/images/journey_starts_banner.png",
+    "ctaLabel": "PLAN YOUR TRIP"
+  }
+}
